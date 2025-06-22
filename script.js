@@ -348,7 +348,7 @@ function initTypingEffect() {
     const subtitle = document.querySelector('.hero-subtitle');
     const text = subtitle.textContent;
     const roles = [
-        'Undergraduate University of Eastern',
+        'Undergraduate University of Uva Wellassa',
         'Creative Thinker',
         'UI/UX Designer',
         'Problem Solver',
